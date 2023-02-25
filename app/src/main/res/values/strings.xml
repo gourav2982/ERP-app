@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">ERP</string>
+    <string name="login_now">Login Now</string>
+    <string name="login_text">Enter your username and password to login</string>
+    <string name="login_img">Login img</string>
+    <string name="username">Username</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="login">Login</string>
+    <string name="login_with_google">Login with Google</string>
+    <string name="don_t_have_an_account">Don’t have an account? </string>
+    <string name="request">Request</string>
+    <string name="password">Password</string>
 </resources>
